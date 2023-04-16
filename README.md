@@ -9,7 +9,7 @@
 <br>
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ymands&show_icons=true&count_private=true&hide_border=true&title_color=5c728e&icon_color=5c728e&text_color=c9d1d9&bg_color=0a0c10" alt="Amanda Lopes github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda&layout=compact&hide_border=true&title_color=5c728e&text_color=5c728e&bg_color=0a0c10" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymands&layout=compact&hide_border=true&title_color=5c728e&text_color=5c728e&bg_color=0a0c10" />
 </div>
 <br>
 <br>
