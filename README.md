@@ -2,18 +2,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3448&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5c728e&size=35&center=true&vCenter=true&width=1000&lines=hi,+welcome+my+space!+:%29)](https://git.io/typing-svg)
-<br>
-<br>
-<br>
 
-<br>
+
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ymands&show_icons=true&count_private=true&hide_border=true&title_color=5c728e&icon_color=5c728e&text_color=c9d1d9&bg_color=0a0c10" alt="Amanda Lopes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymands&layout=compact&hide_border=true&title_color=5c728e&text_color=5c728e&bg_color=0a0c10" />
 </div>
-<br>
-<br>
-<br>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ymands&bg_color=0a0c10&color=506683&line=506683&point=272b33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
