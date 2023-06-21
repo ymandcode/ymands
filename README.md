@@ -10,7 +10,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ymands&bg_color=0a0c10&color=506683&line=506683&point=272b33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">  
 <a href="https://www.instagram.com/_ymand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
